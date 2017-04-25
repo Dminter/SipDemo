@@ -1,0 +1,3113 @@
+[
+    {
+        "outputFile": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endLine": 7,
+                        "endColumn": 19,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endLine": 13,
+                        "endColumn": 19,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endLine": 19,
+                        "endColumn": 19,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endLine": 25,
+                    "endColumn": 19,
+                    "endOffset": 869
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endLine": 25,
+                        "endColumn": 19,
+                        "endOffset": 869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 874,
+                    "endLine": 47,
+                    "endColumn": 16,
+                    "endOffset": 1339
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 874,
+                        "endLine": 47,
+                        "endColumn": 16,
+                        "endOffset": 1339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1344,
+                    "endLine": 69,
+                    "endColumn": 16,
+                    "endOffset": 1785
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1344,
+                        "endLine": 69,
+                        "endColumn": 16,
+                        "endOffset": 1785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 1790,
+                    "endLine": 75,
+                    "endColumn": 19,
+                    "endOffset": 1991
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 1790,
+                        "endLine": 75,
+                        "endColumn": 19,
+                        "endOffset": 1991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 1996,
+                    "endLine": 81,
+                    "endColumn": 19,
+                    "endOffset": 2154
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 1996,
+                        "endLine": 81,
+                        "endColumn": 19,
+                        "endOffset": 2154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 2159,
+                    "endLine": 86,
+                    "endColumn": 23,
+                    "endOffset": 2360
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 2159,
+                        "endLine": 86,
+                        "endColumn": 23,
+                        "endOffset": 2360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 2365,
+                    "endLine": 91,
+                    "endColumn": 23,
+                    "endOffset": 2502
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 2365,
+                        "endLine": 91,
+                        "endColumn": 23,
+                        "endOffset": 2502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 2507,
+                    "endLine": 95,
+                    "endColumn": 19,
+                    "endOffset": 2663
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 2507,
+                        "endLine": 95,
+                        "endColumn": 19,
+                        "endOffset": 2663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 2668,
+                    "endLine": 99,
+                    "endColumn": 19,
+                    "endOffset": 2776
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 2668,
+                        "endLine": 99,
+                        "endColumn": 19,
+                        "endOffset": 2776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 2781,
+                    "endColumn": 56,
+                    "endOffset": 2833
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 2781,
+                        "endColumn": 56,
+                        "endOffset": 2833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 2838,
+                    "endColumn": 54,
+                    "endOffset": 2888
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 2838,
+                        "endColumn": 54,
+                        "endOffset": 2888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 2893,
+                    "endColumn": 50,
+                    "endOffset": 2939
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 2893,
+                        "endColumn": 50,
+                        "endOffset": 2939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 2944,
+                    "endColumn": 51,
+                    "endOffset": 2991
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 2944,
+                        "endColumn": 51,
+                        "endOffset": 2991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 2996,
+                    "endColumn": 63,
+                    "endOffset": 3055
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 2996,
+                        "endColumn": 63,
+                        "endOffset": 3055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 3060,
+                    "endColumn": 65,
+                    "endOffset": 3121
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 3060,
+                        "endColumn": 65,
+                        "endOffset": 3121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 3126,
+                    "endLine": 120,
+                    "endColumn": 273,
+                    "endOffset": 4137
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 3126,
+                        "endLine": 120,
+                        "endColumn": 273,
+                        "endOffset": 4137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 4142,
+                    "endColumn": 45,
+                    "endOffset": 4183
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 4142,
+                        "endColumn": 45,
+                        "endOffset": 4183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 4188,
+                    "endColumn": 57,
+                    "endOffset": 4241
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 4188,
+                        "endColumn": 57,
+                        "endOffset": 4241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 4246,
+                    "endColumn": 65,
+                    "endOffset": 4307
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 4246,
+                        "endColumn": 65,
+                        "endOffset": 4307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 4312,
+                    "endColumn": 60,
+                    "endOffset": 4368
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 4312,
+                        "endColumn": 60,
+                        "endOffset": 4368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 4373,
+                    "endColumn": 54,
+                    "endOffset": 4423
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 4373,
+                        "endColumn": 54,
+                        "endOffset": 4423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 4428,
+                    "endColumn": 80,
+                    "endOffset": 4504
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 4428,
+                        "endColumn": 80,
+                        "endOffset": 4504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 4509,
+                    "endColumn": 67,
+                    "endOffset": 4572
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 4509,
+                        "endColumn": 67,
+                        "endOffset": 4572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 4577,
+                    "endColumn": 66,
+                    "endOffset": 4639
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 4577,
+                        "endColumn": 66,
+                        "endOffset": 4639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 4644,
+                    "endColumn": 54,
+                    "endOffset": 4694
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 4644,
+                        "endColumn": 54,
+                        "endOffset": 4694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 4699,
+                    "endColumn": 47,
+                    "endOffset": 4742
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 4699,
+                        "endColumn": 47,
+                        "endOffset": 4742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 4747,
+                    "endColumn": 55,
+                    "endOffset": 4798
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 4747,
+                        "endColumn": 55,
+                        "endOffset": 4798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 4803,
+                    "endColumn": 64,
+                    "endOffset": 4863
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 4803,
+                        "endColumn": 64,
+                        "endOffset": 4863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 4868,
+                    "endColumn": 60,
+                    "endOffset": 4924
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 4868,
+                        "endColumn": 60,
+                        "endOffset": 4924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 4929,
+                    "endColumn": 94,
+                    "endOffset": 5019
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 4929,
+                        "endColumn": 94,
+                        "endOffset": 5019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 5024,
+                    "endLine": 137,
+                    "endColumn": 170,
+                    "endOffset": 5319
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 5024,
+                        "endLine": 137,
+                        "endColumn": 170,
+                        "endOffset": 5319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 5324,
+                    "endColumn": 112,
+                    "endOffset": 5432
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 5324,
+                        "endColumn": 112,
+                        "endOffset": 5432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 5437,
+                    "endColumn": 117,
+                    "endOffset": 5550
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 5437,
+                        "endColumn": 117,
+                        "endOffset": 5550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 5555,
+                    "endColumn": 55,
+                    "endOffset": 5606
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 5555,
+                        "endColumn": 55,
+                        "endOffset": 5606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 5611,
+                    "endColumn": 86,
+                    "endOffset": 5693
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 5611,
+                        "endColumn": 86,
+                        "endOffset": 5693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 5698,
+                    "endColumn": 89,
+                    "endOffset": 5783
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 5698,
+                        "endColumn": 89,
+                        "endOffset": 5783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 5788,
+                    "endColumn": 53,
+                    "endOffset": 5837
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 5788,
+                        "endColumn": 53,
+                        "endOffset": 5837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 5842,
+                    "endColumn": 46,
+                    "endOffset": 5884
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 5842,
+                        "endColumn": 46,
+                        "endOffset": 5884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 5889,
+                    "endColumn": 44,
+                    "endOffset": 5929
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 5889,
+                        "endColumn": 44,
+                        "endOffset": 5929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 5934,
+                    "endColumn": 46,
+                    "endOffset": 5976
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 5934,
+                        "endColumn": 46,
+                        "endOffset": 5976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 5981,
+                    "endColumn": 67,
+                    "endOffset": 6044
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 5981,
+                        "endColumn": 67,
+                        "endOffset": 6044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6049,
+                    "endColumn": 42,
+                    "endOffset": 6087
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 6049,
+                        "endColumn": 42,
+                        "endOffset": 6087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 6092,
+                    "endColumn": 73,
+                    "endOffset": 6161
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 6092,
+                        "endColumn": 73,
+                        "endOffset": 6161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 6166,
+                    "endColumn": 47,
+                    "endOffset": 6209
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 6166,
+                        "endColumn": 47,
+                        "endOffset": 6209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 6214,
+                    "endColumn": 49,
+                    "endOffset": 6259
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 6214,
+                        "endColumn": 49,
+                        "endOffset": 6259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 6264,
+                    "endColumn": 42,
+                    "endOffset": 6302
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 6264,
+                        "endColumn": 42,
+                        "endOffset": 6302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 6307,
+                    "endColumn": 42,
+                    "endOffset": 6345
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 6307,
+                        "endColumn": 42,
+                        "endOffset": 6345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 6350,
+                    "endColumn": 42,
+                    "endOffset": 6388
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 6350,
+                        "endColumn": 42,
+                        "endOffset": 6388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 6393,
+                    "endColumn": 50,
+                    "endOffset": 6439
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 6393,
+                        "endColumn": 50,
+                        "endOffset": 6439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 6444,
+                    "endColumn": 48,
+                    "endOffset": 6488
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 6444,
+                        "endColumn": 48,
+                        "endOffset": 6488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 6493,
+                    "endColumn": 50,
+                    "endOffset": 6539
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 6493,
+                        "endColumn": 50,
+                        "endOffset": 6539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 6544,
+                    "endColumn": 49,
+                    "endOffset": 6589
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 6544,
+                        "endColumn": 49,
+                        "endOffset": 6589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 6594,
+                    "endColumn": 33,
+                    "endOffset": 6623
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 6594,
+                        "endColumn": 33,
+                        "endOffset": 6623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 6628,
+                    "endColumn": 70,
+                    "endOffset": 6694
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 6628,
+                        "endColumn": 70,
+                        "endOffset": 6694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 6699,
+                    "endColumn": 42,
+                    "endOffset": 6737
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 6699,
+                        "endColumn": 42,
+                        "endOffset": 6737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 6742,
+                    "endColumn": 48,
+                    "endOffset": 6786
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 6742,
+                        "endColumn": 48,
+                        "endOffset": 6786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 6791,
+                    "endColumn": 48,
+                    "endOffset": 6835
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 6791,
+                        "endColumn": 48,
+                        "endOffset": 6835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 6840,
+                    "endColumn": 46,
+                    "endOffset": 6882
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 6840,
+                        "endColumn": 46,
+                        "endOffset": 6882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 6887,
+                    "endColumn": 52,
+                    "endOffset": 6935
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 4,
+                        "startOffset": 6887,
+                        "endColumn": 52,
+                        "endOffset": 6935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 6940,
+                    "endColumn": 57,
+                    "endOffset": 6993
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 6940,
+                        "endColumn": 57,
+                        "endOffset": 6993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 6998,
+                    "endColumn": 45,
+                    "endOffset": 7039
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 6998,
+                        "endColumn": 45,
+                        "endOffset": 7039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 7044,
+                    "endColumn": 46,
+                    "endOffset": 7086
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 4,
+                        "startOffset": 7044,
+                        "endColumn": 46,
+                        "endOffset": 7086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 7091,
+                    "endColumn": 50,
+                    "endOffset": 7137
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 7091,
+                        "endColumn": 50,
+                        "endOffset": 7137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 7142,
+                    "endColumn": 74,
+                    "endOffset": 7212
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 4,
+                        "startOffset": 7142,
+                        "endColumn": 74,
+                        "endOffset": 7212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 7217,
+                    "endColumn": 56,
+                    "endOffset": 7269
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 7217,
+                        "endColumn": 56,
+                        "endOffset": 7269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 7274,
+                    "endColumn": 70,
+                    "endOffset": 7340
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 7274,
+                        "endColumn": 70,
+                        "endOffset": 7340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 7345,
+                    "endColumn": 69,
+                    "endOffset": 7410
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 7345,
+                        "endColumn": 69,
+                        "endOffset": 7410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 7415,
+                    "endColumn": 82,
+                    "endOffset": 7493
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 7415,
+                        "endColumn": 82,
+                        "endOffset": 7493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 7498,
+                    "endColumn": 63,
+                    "endOffset": 7557
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 7498,
+                        "endColumn": 63,
+                        "endOffset": 7557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 7562,
+                    "endColumn": 85,
+                    "endOffset": 7643
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 7562,
+                        "endColumn": 85,
+                        "endOffset": 7643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 7648,
+                    "endColumn": 72,
+                    "endOffset": 7716
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 7648,
+                        "endColumn": 72,
+                        "endOffset": 7716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 7721,
+                    "endColumn": 84,
+                    "endOffset": 7801
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 7721,
+                        "endColumn": 84,
+                        "endOffset": 7801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 7806,
+                    "endColumn": 59,
+                    "endOffset": 7861
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 7806,
+                        "endColumn": 59,
+                        "endOffset": 7861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 7866,
+                    "endColumn": 77,
+                    "endOffset": 7939
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 7866,
+                        "endColumn": 77,
+                        "endOffset": 7939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 7944,
+                    "endColumn": 62,
+                    "endOffset": 8002
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 7944,
+                        "endColumn": 62,
+                        "endOffset": 8002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 8007,
+                    "endColumn": 84,
+                    "endOffset": 8087
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 8007,
+                        "endColumn": 84,
+                        "endOffset": 8087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 8092,
+                    "endColumn": 92,
+                    "endOffset": 8180
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 8092,
+                        "endColumn": 92,
+                        "endOffset": 8180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 8185,
+                    "endColumn": 60,
+                    "endOffset": 8241
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 8185,
+                        "endColumn": 60,
+                        "endOffset": 8241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 8246,
+                    "endColumn": 82,
+                    "endOffset": 8324
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 8246,
+                        "endColumn": 82,
+                        "endOffset": 8324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 8329,
+                    "endColumn": 62,
+                    "endOffset": 8387
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 8329,
+                        "endColumn": 62,
+                        "endOffset": 8387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 8392,
+                    "endColumn": 66,
+                    "endOffset": 8454
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 8392,
+                        "endColumn": 66,
+                        "endOffset": 8454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 8459,
+                    "endColumn": 92,
+                    "endOffset": 8547
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 8459,
+                        "endColumn": 92,
+                        "endOffset": 8547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 8552,
+                    "endColumn": 66,
+                    "endOffset": 8614
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 4,
+                        "startOffset": 8552,
+                        "endColumn": 66,
+                        "endOffset": 8614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 8619,
+                    "endColumn": 50,
+                    "endOffset": 8665
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 8619,
+                        "endColumn": 50,
+                        "endOffset": 8665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 8670,
+                    "endColumn": 74,
+                    "endOffset": 8740
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 8670,
+                        "endColumn": 74,
+                        "endOffset": 8740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 8745,
+                    "endColumn": 58,
+                    "endOffset": 8799
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 8745,
+                        "endColumn": 58,
+                        "endOffset": 8799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 8804,
+                    "endColumn": 50,
+                    "endOffset": 8850
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 4,
+                        "startOffset": 8804,
+                        "endColumn": 50,
+                        "endOffset": 8850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 8855,
+                    "endColumn": 63,
+                    "endOffset": 8914
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 8855,
+                        "endColumn": 63,
+                        "endOffset": 8914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 8919,
+                    "endColumn": 68,
+                    "endOffset": 8983
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 4,
+                        "startOffset": 8919,
+                        "endColumn": 68,
+                        "endOffset": 8983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 8988,
+                    "endColumn": 58,
+                    "endOffset": 9042
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 8988,
+                        "endColumn": 58,
+                        "endOffset": 9042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 9047,
+                    "endColumn": 57,
+                    "endOffset": 9100
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 9047,
+                        "endColumn": 57,
+                        "endOffset": 9100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 9105,
+                    "endColumn": 58,
+                    "endOffset": 9159
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 9105,
+                        "endColumn": 58,
+                        "endOffset": 9159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 9164,
+                    "endColumn": 67,
+                    "endOffset": 9227
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 9164,
+                        "endColumn": 67,
+                        "endOffset": 9227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 9232,
+                    "endColumn": 53,
+                    "endOffset": 9281
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 9232,
+                        "endColumn": 53,
+                        "endOffset": 9281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 9286,
+                    "endColumn": 92,
+                    "endOffset": 9374
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 4,
+                        "startOffset": 9286,
+                        "endColumn": 92,
+                        "endOffset": 9374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 9379,
+                    "endColumn": 46,
+                    "endOffset": 9421
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 9379,
+                        "endColumn": 46,
+                        "endOffset": 9421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 9426,
+                    "endColumn": 60,
+                    "endOffset": 9482
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 9426,
+                        "endColumn": 60,
+                        "endOffset": 9482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 9487,
+                    "endColumn": 59,
+                    "endOffset": 9542
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 9487,
+                        "endColumn": 59,
+                        "endOffset": 9542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 9547,
+                    "endColumn": 57,
+                    "endOffset": 9600
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 9547,
+                        "endColumn": 57,
+                        "endOffset": 9600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 9605,
+                    "endColumn": 51,
+                    "endOffset": 9652
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 9605,
+                        "endColumn": 51,
+                        "endOffset": 9652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 9657,
+                    "endColumn": 92,
+                    "endOffset": 9745
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 9657,
+                        "endColumn": 92,
+                        "endOffset": 9745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 9750,
+                    "endColumn": 64,
+                    "endOffset": 9810
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 9750,
+                        "endColumn": 64,
+                        "endOffset": 9810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 9815,
+                    "endColumn": 55,
+                    "endOffset": 9866
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 9815,
+                        "endColumn": 55,
+                        "endOffset": 9866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 9871,
+                    "endColumn": 65,
+                    "endOffset": 9932
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 4,
+                        "startOffset": 9871,
+                        "endColumn": 65,
+                        "endOffset": 9932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 9937,
+                    "endColumn": 57,
+                    "endOffset": 9990
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 9937,
+                        "endColumn": 57,
+                        "endOffset": 9990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 9995,
+                    "endColumn": 64,
+                    "endOffset": 10055
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 4,
+                        "startOffset": 9995,
+                        "endColumn": 64,
+                        "endOffset": 10055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 10060,
+                    "endColumn": 59,
+                    "endOffset": 10115
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 10060,
+                        "endColumn": 59,
+                        "endOffset": 10115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 10120,
+                    "endColumn": 62,
+                    "endOffset": 10178
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 4,
+                        "startOffset": 10120,
+                        "endColumn": 62,
+                        "endOffset": 10178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 10183,
+                    "endColumn": 94,
+                    "endOffset": 10273
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 10183,
+                        "endColumn": 94,
+                        "endOffset": 10273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 10278,
+                    "endColumn": 54,
+                    "endOffset": 10328
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 10278,
+                        "endColumn": 54,
+                        "endOffset": 10328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 10333,
+                    "endColumn": 65,
+                    "endOffset": 10394
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 10333,
+                        "endColumn": 65,
+                        "endOffset": 10394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 10399,
+                    "endColumn": 88,
+                    "endOffset": 10483
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 10399,
+                        "endColumn": 88,
+                        "endOffset": 10483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 10488,
+                    "endColumn": 95,
+                    "endOffset": 10579
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 10488,
+                        "endColumn": 95,
+                        "endOffset": 10579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 10584,
+                    "endColumn": 46,
+                    "endOffset": 10626
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 220,
+                        "startColumn": 4,
+                        "startOffset": 10584,
+                        "endColumn": 46,
+                        "endOffset": 10626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 10631,
+                    "endColumn": 56,
+                    "endOffset": 10683
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 10631,
+                        "endColumn": 56,
+                        "endOffset": 10683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 10688,
+                    "endColumn": 103,
+                    "endOffset": 10787
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 4,
+                        "startOffset": 10688,
+                        "endColumn": 103,
+                        "endOffset": 10787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 10792,
+                    "endColumn": 59,
+                    "endOffset": 10847
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 4,
+                        "startOffset": 10792,
+                        "endColumn": 59,
+                        "endOffset": 10847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 10852,
+                    "endColumn": 69,
+                    "endOffset": 10917
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 224,
+                        "startColumn": 4,
+                        "startOffset": 10852,
+                        "endColumn": 69,
+                        "endOffset": 10917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 10922,
+                    "endColumn": 61,
+                    "endOffset": 10979
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 4,
+                        "startOffset": 10922,
+                        "endColumn": 61,
+                        "endOffset": 10979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 10984,
+                    "endColumn": 134,
+                    "endOffset": 11114
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 226,
+                        "startColumn": 4,
+                        "startOffset": 10984,
+                        "endColumn": 134,
+                        "endOffset": 11114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 11119,
+                    "endColumn": 90,
+                    "endOffset": 11205
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 227,
+                        "startColumn": 4,
+                        "startOffset": 11119,
+                        "endColumn": 90,
+                        "endOffset": 11205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 11210,
+                    "endColumn": 86,
+                    "endOffset": 11292
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 228,
+                        "startColumn": 4,
+                        "startOffset": 11210,
+                        "endColumn": 86,
+                        "endOffset": 11292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 11297,
+                    "endColumn": 132,
+                    "endOffset": 11425
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 229,
+                        "startColumn": 4,
+                        "startOffset": 11297,
+                        "endColumn": 132,
+                        "endOffset": 11425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 11430,
+                    "endColumn": 79,
+                    "endOffset": 11505
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 4,
+                        "startOffset": 11430,
+                        "endColumn": 79,
+                        "endOffset": 11505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 11510,
+                    "endColumn": 75,
+                    "endOffset": 11581
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 11510,
+                        "endColumn": 75,
+                        "endOffset": 11581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 11586,
+                    "endColumn": 82,
+                    "endOffset": 11664
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 4,
+                        "startOffset": 11586,
+                        "endColumn": 82,
+                        "endOffset": 11664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 11669,
+                    "endColumn": 82,
+                    "endOffset": 11747
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 4,
+                        "startOffset": 11669,
+                        "endColumn": 82,
+                        "endOffset": 11747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 11752,
+                    "endColumn": 63,
+                    "endOffset": 11811
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 4,
+                        "startOffset": 11752,
+                        "endColumn": 63,
+                        "endOffset": 11811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 11816,
+                    "endColumn": 63,
+                    "endOffset": 11875
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 235,
+                        "startColumn": 4,
+                        "startOffset": 11816,
+                        "endColumn": 63,
+                        "endOffset": 11875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 11880,
+                    "endColumn": 63,
+                    "endOffset": 11939
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 4,
+                        "startOffset": 11880,
+                        "endColumn": 63,
+                        "endOffset": 11939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 11944,
+                    "endColumn": 101,
+                    "endOffset": 12041
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 237,
+                        "startColumn": 4,
+                        "startOffset": 11944,
+                        "endColumn": 101,
+                        "endOffset": 12041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 12046,
+                    "endColumn": 54,
+                    "endOffset": 12096
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 238,
+                        "startColumn": 4,
+                        "startOffset": 12046,
+                        "endColumn": 54,
+                        "endOffset": 12096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 12101,
+                    "endColumn": 53,
+                    "endOffset": 12150
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 4,
+                        "startOffset": 12101,
+                        "endColumn": 53,
+                        "endOffset": 12150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 12155,
+                    "endColumn": 83,
+                    "endOffset": 12234
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 4,
+                        "startOffset": 12155,
+                        "endColumn": 83,
+                        "endOffset": 12234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 12239,
+                    "endColumn": 64,
+                    "endOffset": 12299
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 12239,
+                        "endColumn": 64,
+                        "endOffset": 12299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 12304,
+                    "endColumn": 63,
+                    "endOffset": 12363
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 242,
+                        "startColumn": 4,
+                        "startOffset": 12304,
+                        "endColumn": 63,
+                        "endOffset": 12363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 12368,
+                    "endColumn": 64,
+                    "endOffset": 12428
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 4,
+                        "startOffset": 12368,
+                        "endColumn": 64,
+                        "endOffset": 12428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 12433,
+                    "endColumn": 59,
+                    "endOffset": 12488
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 244,
+                        "startColumn": 4,
+                        "startOffset": 12433,
+                        "endColumn": 59,
+                        "endOffset": 12488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 12493,
+                    "endColumn": 61,
+                    "endOffset": 12550
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 4,
+                        "startOffset": 12493,
+                        "endColumn": 61,
+                        "endOffset": 12550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 12555,
+                    "endColumn": 84,
+                    "endOffset": 12635
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 246,
+                        "startColumn": 4,
+                        "startOffset": 12555,
+                        "endColumn": 84,
+                        "endOffset": 12635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 12640,
+                    "endColumn": 65,
+                    "endOffset": 12701
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 247,
+                        "startColumn": 4,
+                        "startOffset": 12640,
+                        "endColumn": 65,
+                        "endOffset": 12701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 12706,
+                    "endColumn": 57,
+                    "endOffset": 12759
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 248,
+                        "startColumn": 4,
+                        "startOffset": 12706,
+                        "endColumn": 57,
+                        "endOffset": 12759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 12764,
+                    "endColumn": 65,
+                    "endOffset": 12825
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 249,
+                        "startColumn": 4,
+                        "startOffset": 12764,
+                        "endColumn": 65,
+                        "endOffset": 12825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 12830,
+                    "endColumn": 70,
+                    "endOffset": 12896
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 250,
+                        "startColumn": 4,
+                        "startOffset": 12830,
+                        "endColumn": 70,
+                        "endOffset": 12896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 12901,
+                    "endColumn": 60,
+                    "endOffset": 12957
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 12901,
+                        "endColumn": 60,
+                        "endOffset": 12957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 12962,
+                    "endColumn": 68,
+                    "endOffset": 13026
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 12962,
+                        "endColumn": 68,
+                        "endOffset": 13026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 13031,
+                    "endColumn": 68,
+                    "endOffset": 13095
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 253,
+                        "startColumn": 4,
+                        "startOffset": 13031,
+                        "endColumn": 68,
+                        "endOffset": 13095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 13100,
+                    "endColumn": 48,
+                    "endOffset": 13144
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 254,
+                        "startColumn": 4,
+                        "startOffset": 13100,
+                        "endColumn": 48,
+                        "endOffset": 13144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 13149,
+                    "endColumn": 90,
+                    "endOffset": 13235
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 255,
+                        "startColumn": 4,
+                        "startOffset": 13149,
+                        "endColumn": 90,
+                        "endOffset": 13235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 13240,
+                    "endColumn": 59,
+                    "endOffset": 13295
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 256,
+                        "startColumn": 4,
+                        "startOffset": 13240,
+                        "endColumn": 59,
+                        "endOffset": 13295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 13300,
+                    "endColumn": 62,
+                    "endOffset": 13358
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 257,
+                        "startColumn": 4,
+                        "startOffset": 13300,
+                        "endColumn": 62,
+                        "endOffset": 13358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 13363,
+                    "endColumn": 50,
+                    "endOffset": 13409
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 258,
+                        "startColumn": 4,
+                        "startOffset": 13363,
+                        "endColumn": 50,
+                        "endOffset": 13409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 13414,
+                    "endColumn": 66,
+                    "endOffset": 13476
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 259,
+                        "startColumn": 4,
+                        "startOffset": 13414,
+                        "endColumn": 66,
+                        "endOffset": 13476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 13481,
+                    "endColumn": 79,
+                    "endOffset": 13556
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 260,
+                        "startColumn": 4,
+                        "startOffset": 13481,
+                        "endColumn": 79,
+                        "endOffset": 13556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 13561,
+                    "endColumn": 71,
+                    "endOffset": 13628
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 261,
+                        "startColumn": 4,
+                        "startOffset": 13561,
+                        "endColumn": 71,
+                        "endOffset": 13628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 13633,
+                    "endColumn": 59,
+                    "endOffset": 13688
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 262,
+                        "startColumn": 4,
+                        "startOffset": 13633,
+                        "endColumn": 59,
+                        "endOffset": 13688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 13693,
+                    "endColumn": 43,
+                    "endOffset": 13732
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 263,
+                        "startColumn": 4,
+                        "startOffset": 13693,
+                        "endColumn": 43,
+                        "endOffset": 13732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 13737,
+                    "endColumn": 56,
+                    "endOffset": 13789
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 264,
+                        "startColumn": 4,
+                        "startOffset": 13737,
+                        "endColumn": 56,
+                        "endOffset": 13789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 13794,
+                    "endColumn": 35,
+                    "endOffset": 13825
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 265,
+                        "startColumn": 4,
+                        "startOffset": 13794,
+                        "endColumn": 35,
+                        "endOffset": 13825
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-finger\\dtmf_twelve_key_dialer.xml",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\layout-finger\\dtmf_twelve_key_dialer.xml"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-finger\\dtmf_display.xml",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\layout-finger\\dtmf_display.xml"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-finger\\dialpad.xml",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\layout-finger\\dialpad.xml"
+    }
+]

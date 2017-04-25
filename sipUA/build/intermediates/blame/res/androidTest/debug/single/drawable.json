@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_presence_offline.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_presence_offline.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\goback.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\goback.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_incall_hangup.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_incall_hangup.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\im.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\im.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\icon32.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\icon32.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\incall_frame_ended_short.9.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\incall_frame_ended_short.9.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\incall_frame_normal_short.9.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\incall_frame_normal_short.9.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\auto_answer_disabled.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\auto_answer_disabled.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_call_lcd.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_call_lcd.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\icon64.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\icon64.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\picture_dialing.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\picture_dialing.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_incoming_call_answer_options.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_incoming_call_answer_options.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\stat_sys_phone_call_bluetooth.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\stat_sys_phone_call_bluetooth.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_call_speakerphone_on.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_call_speakerphone_on.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\picture_busy.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\picture_busy.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_item_indicator.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_item_indicator.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\incall_frame_hold_tall_land.9.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\incall_frame_hold_tall_land.9.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_item_indicator_focus.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_item_indicator_focus.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\incall_frame_connected_tall_land.9.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\incall_frame_connected_tall_land.9.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_call_speakerphone_off.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_call_speakerphone_off.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\icon22.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\icon22.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_incoming_call_answer.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_incoming_call_answer.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mute.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\mute.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\people.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\people.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\picture_frame.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\picture_frame.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\picture_unknown.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\picture_unknown.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_launcher_phone.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_launcher_phone.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\status_bar_item_app_background_normal.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\status_bar_item_app_background_normal.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\picture_conference.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\picture_conference.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_call_end.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_call_end.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_call_hold_off.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_call_hold_off.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\picture_unknown_2.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\picture_unknown_2.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\incall_frame_hold_tall_port.9.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\incall_frame_hold_tall_port.9.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_incall_answer.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_incall_answer.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\incall_frame_ended_tall_land.9.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\incall_frame_ended_tall_land.9.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_menu_preferences.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_menu_preferences.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\picture_end.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\picture_end.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_presence_away.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_presence_away.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_call.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_call.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\save.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_menu_end_call.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_menu_end_call.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\configure.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\configure.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_incall_onhold.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_incall_onhold.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_incall_add.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_incall_add.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_call_merge.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_call_merge.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_call_hold_on.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_call_hold_on.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\incall_frame_connected_tall_port.9.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\incall_frame_connected_tall_port.9.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_call_add_call.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_call_add_call.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\contacts.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\contacts.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_incall_ongoing.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_incall_ongoing.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_incall_end.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_incall_end.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_call_redial.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_call_redial.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\incall_frame_ended_tall_port.9.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\incall_frame_ended_tall_port.9.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\incall_frame_connected_short.9.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\incall_frame_connected_short.9.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\incall_frame_hold_short.9.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\incall_frame_hold_short.9.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\exit.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\home.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_contacts_edit_contacts.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_contacts_edit_contacts.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_menu_dial_pad.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_menu_dial_pad.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\picture_unknown_3.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\picture_unknown_3.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_incoming_call_dont_answer.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_incoming_call_dont_answer.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\incall_frame_normal_tall_land.9.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\incall_frame_normal_tall_land.9.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_presence_available.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_presence_available.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\stat_sys_phone_call.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\stat_sys_phone_call.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\incall_frame_normal_tall_port.9.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\incall_frame_normal_tall_port.9.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_fav_five.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_fav_five.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_call_done.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_call_done.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_incoming_call_hold_answer.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_incoming_call_hold_answer.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\conf.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\conf.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\auto_answer.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\auto_answer.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_search_contacts.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_search_contacts.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sym_presence_idle.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\sym_presence_idle.png"
+    },
+    {
+        "merged": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\incall_photo_border.9.png",
+        "source": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\drawable\\incall_photo_border.9.png"
+    }
+]

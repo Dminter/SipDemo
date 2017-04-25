@@ -1,0 +1,2866 @@
+[
+    {
+        "outputFile": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endLine": 7,
+                        "endColumn": 19,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endLine": 13,
+                        "endColumn": 19,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endLine": 21,
+                    "endColumn": 19,
+                    "endOffset": 648
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 473,
+                        "endLine": 21,
+                        "endColumn": 19,
+                        "endOffset": 648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 653,
+                    "endLine": 27,
+                    "endColumn": 19,
+                    "endOffset": 810
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 653,
+                        "endLine": 27,
+                        "endColumn": 19,
+                        "endOffset": 810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 815,
+                    "endLine": 48,
+                    "endColumn": 16,
+                    "endOffset": 1250
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 815,
+                        "endLine": 48,
+                        "endColumn": 16,
+                        "endOffset": 1250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1255,
+                    "endLine": 69,
+                    "endColumn": 16,
+                    "endOffset": 1675
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1255,
+                        "endLine": 69,
+                        "endColumn": 16,
+                        "endOffset": 1675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 1680,
+                    "endLine": 75,
+                    "endColumn": 19,
+                    "endOffset": 1870
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 1680,
+                        "endLine": 75,
+                        "endColumn": 19,
+                        "endOffset": 1870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 1875,
+                    "endLine": 81,
+                    "endColumn": 19,
+                    "endOffset": 2033
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 1875,
+                        "endLine": 81,
+                        "endColumn": 19,
+                        "endOffset": 2033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 2038,
+                    "endLine": 85,
+                    "endColumn": 19,
+                    "endOffset": 2179
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 2038,
+                        "endLine": 85,
+                        "endColumn": 19,
+                        "endOffset": 2179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 2184,
+                    "endLine": 89,
+                    "endColumn": 19,
+                    "endOffset": 2291
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 2184,
+                        "endLine": 89,
+                        "endColumn": 19,
+                        "endOffset": 2291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 2296,
+                    "endLine": 93,
+                    "endColumn": 19,
+                    "endOffset": 2447
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 2296,
+                        "endLine": 93,
+                        "endColumn": 19,
+                        "endOffset": 2447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 2452,
+                    "endLine": 97,
+                    "endColumn": 19,
+                    "endOffset": 2560
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 2452,
+                        "endLine": 97,
+                        "endColumn": 19,
+                        "endOffset": 2560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 2565,
+                    "endLine": 114,
+                    "endColumn": 273,
+                    "endOffset": 3512
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 2565,
+                        "endLine": 114,
+                        "endColumn": 273,
+                        "endOffset": 3512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 3517,
+                    "endColumn": 45,
+                    "endOffset": 3558
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 3517,
+                        "endColumn": 45,
+                        "endOffset": 3558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 3563,
+                    "endColumn": 48,
+                    "endOffset": 3607
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 3563,
+                        "endColumn": 48,
+                        "endOffset": 3607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 3612,
+                    "endColumn": 49,
+                    "endOffset": 3657
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 3612,
+                        "endColumn": 49,
+                        "endOffset": 3657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 3662,
+                    "endColumn": 54,
+                    "endOffset": 3712
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 3662,
+                        "endColumn": 54,
+                        "endOffset": 3712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 3717,
+                    "endColumn": 50,
+                    "endOffset": 3763
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 3717,
+                        "endColumn": 50,
+                        "endOffset": 3763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 3768,
+                    "endColumn": 66,
+                    "endOffset": 3830
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 3768,
+                        "endColumn": 66,
+                        "endOffset": 3830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 3835,
+                    "endColumn": 54,
+                    "endOffset": 3885
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 3835,
+                        "endColumn": 54,
+                        "endOffset": 3885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 3890,
+                    "endColumn": 55,
+                    "endOffset": 3941
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 3890,
+                        "endColumn": 55,
+                        "endOffset": 3941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 3946,
+                    "endColumn": 52,
+                    "endOffset": 3994
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 3946,
+                        "endColumn": 52,
+                        "endOffset": 3994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 3999,
+                    "endColumn": 41,
+                    "endOffset": 4036
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 3999,
+                        "endColumn": 41,
+                        "endOffset": 4036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 4041,
+                    "endColumn": 46,
+                    "endOffset": 4083
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 4041,
+                        "endColumn": 46,
+                        "endOffset": 4083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 4088,
+                    "endColumn": 47,
+                    "endOffset": 4131
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 4088,
+                        "endColumn": 47,
+                        "endOffset": 4131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 4136,
+                    "endColumn": 45,
+                    "endOffset": 4177
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 4136,
+                        "endColumn": 45,
+                        "endOffset": 4177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 4182,
+                    "endColumn": 60,
+                    "endOffset": 4238
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 4182,
+                        "endColumn": 60,
+                        "endOffset": 4238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 4243,
+                    "endLine": 131,
+                    "endColumn": 82,
+                    "endOffset": 4390
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 4243,
+                        "endLine": 131,
+                        "endColumn": 82,
+                        "endOffset": 4390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 4395,
+                    "endColumn": 65,
+                    "endOffset": 4456
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 4395,
+                        "endColumn": 65,
+                        "endOffset": 4456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 4461,
+                    "endColumn": 40,
+                    "endOffset": 4497
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 4461,
+                        "endColumn": 40,
+                        "endOffset": 4497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 4502,
+                    "endColumn": 63,
+                    "endOffset": 4561
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 4502,
+                        "endColumn": 63,
+                        "endOffset": 4561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 4566,
+                    "endColumn": 56,
+                    "endOffset": 4618
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 4566,
+                        "endColumn": 56,
+                        "endOffset": 4618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 4623,
+                    "endColumn": 38,
+                    "endOffset": 4657
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 4623,
+                        "endColumn": 38,
+                        "endOffset": 4657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 4662,
+                    "endColumn": 38,
+                    "endOffset": 4696
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 4662,
+                        "endColumn": 38,
+                        "endOffset": 4696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 4701,
+                    "endColumn": 41,
+                    "endOffset": 4738
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 4701,
+                        "endColumn": 41,
+                        "endOffset": 4738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 4743,
+                    "endColumn": 42,
+                    "endOffset": 4781
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 4743,
+                        "endColumn": 42,
+                        "endOffset": 4781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 4786,
+                    "endColumn": 51,
+                    "endOffset": 4833
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 4786,
+                        "endColumn": 51,
+                        "endOffset": 4833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 4838,
+                    "endColumn": 40,
+                    "endOffset": 4874
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 4838,
+                        "endColumn": 40,
+                        "endOffset": 4874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 4879,
+                    "endColumn": 44,
+                    "endOffset": 4919
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 4879,
+                        "endColumn": 44,
+                        "endOffset": 4919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 4924,
+                    "endColumn": 43,
+                    "endOffset": 4963
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 4924,
+                        "endColumn": 43,
+                        "endOffset": 4963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 4968,
+                    "endColumn": 40,
+                    "endOffset": 5004
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 4968,
+                        "endColumn": 40,
+                        "endOffset": 5004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 5009,
+                    "endColumn": 40,
+                    "endOffset": 5045
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 5009,
+                        "endColumn": 40,
+                        "endOffset": 5045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 5050,
+                    "endColumn": 40,
+                    "endOffset": 5086
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 5050,
+                        "endColumn": 40,
+                        "endOffset": 5086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 5091,
+                    "endColumn": 44,
+                    "endOffset": 5131
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 5091,
+                        "endColumn": 44,
+                        "endOffset": 5131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 5136,
+                    "endColumn": 44,
+                    "endOffset": 5176
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 5136,
+                        "endColumn": 44,
+                        "endOffset": 5176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 5181,
+                    "endColumn": 44,
+                    "endOffset": 5221
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 5181,
+                        "endColumn": 44,
+                        "endOffset": 5221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 5226,
+                    "endColumn": 43,
+                    "endOffset": 5265
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 5226,
+                        "endColumn": 43,
+                        "endOffset": 5265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 5270,
+                    "endColumn": 32,
+                    "endOffset": 5298
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 5270,
+                        "endColumn": 32,
+                        "endOffset": 5298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 5303,
+                    "endColumn": 42,
+                    "endOffset": 5341
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 5303,
+                        "endColumn": 42,
+                        "endOffset": 5341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 5346,
+                    "endColumn": 38,
+                    "endOffset": 5380
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 5346,
+                        "endColumn": 38,
+                        "endOffset": 5380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 5385,
+                    "endColumn": 40,
+                    "endOffset": 5421
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 5385,
+                        "endColumn": 40,
+                        "endOffset": 5421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 5426,
+                    "endColumn": 40,
+                    "endOffset": 5462
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 5426,
+                        "endColumn": 40,
+                        "endOffset": 5462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 5467,
+                    "endColumn": 39,
+                    "endOffset": 5502
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 5467,
+                        "endColumn": 39,
+                        "endOffset": 5502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 5507,
+                    "endColumn": 42,
+                    "endOffset": 5545
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 5507,
+                        "endColumn": 42,
+                        "endOffset": 5545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 5550,
+                    "endColumn": 38,
+                    "endOffset": 5584
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 5550,
+                        "endColumn": 38,
+                        "endOffset": 5584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 5589,
+                    "endColumn": 46,
+                    "endOffset": 5631
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 5589,
+                        "endColumn": 46,
+                        "endOffset": 5631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 5636,
+                    "endColumn": 45,
+                    "endOffset": 5677
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 5636,
+                        "endColumn": 45,
+                        "endOffset": 5677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 5682,
+                    "endColumn": 56,
+                    "endOffset": 5734
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 5682,
+                        "endColumn": 56,
+                        "endOffset": 5734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 5739,
+                    "endColumn": 52,
+                    "endOffset": 5787
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 5739,
+                        "endColumn": 52,
+                        "endOffset": 5787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 5792,
+                    "endColumn": 58,
+                    "endOffset": 5846
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 5792,
+                        "endColumn": 58,
+                        "endOffset": 5846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 5851,
+                    "endColumn": 59,
+                    "endOffset": 5906
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 5851,
+                        "endColumn": 59,
+                        "endOffset": 5906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 5911,
+                    "endColumn": 63,
+                    "endOffset": 5970
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 4,
+                        "startOffset": 5911,
+                        "endColumn": 63,
+                        "endOffset": 5970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 5975,
+                    "endColumn": 51,
+                    "endOffset": 6022
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 5975,
+                        "endColumn": 51,
+                        "endOffset": 6022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 6027,
+                    "endColumn": 60,
+                    "endOffset": 6083
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 6027,
+                        "endColumn": 60,
+                        "endOffset": 6083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 6088,
+                    "endColumn": 59,
+                    "endOffset": 6143
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 4,
+                        "startOffset": 6088,
+                        "endColumn": 59,
+                        "endOffset": 6143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 6148,
+                    "endColumn": 62,
+                    "endOffset": 6206
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 6148,
+                        "endColumn": 62,
+                        "endOffset": 6206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 6211,
+                    "endColumn": 55,
+                    "endOffset": 6262
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 4,
+                        "startOffset": 6211,
+                        "endColumn": 55,
+                        "endOffset": 6262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 6267,
+                    "endColumn": 63,
+                    "endOffset": 6326
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 6267,
+                        "endColumn": 63,
+                        "endOffset": 6326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 6331,
+                    "endColumn": 50,
+                    "endOffset": 6377
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 6331,
+                        "endColumn": 50,
+                        "endOffset": 6377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 6382,
+                    "endColumn": 56,
+                    "endOffset": 6434
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 6382,
+                        "endColumn": 56,
+                        "endOffset": 6434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 6439,
+                    "endColumn": 59,
+                    "endOffset": 6494
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 6439,
+                        "endColumn": 59,
+                        "endOffset": 6494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 6499,
+                    "endColumn": 56,
+                    "endOffset": 6551
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 6499,
+                        "endColumn": 56,
+                        "endOffset": 6551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 6556,
+                    "endColumn": 57,
+                    "endOffset": 6609
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 6556,
+                        "endColumn": 57,
+                        "endOffset": 6609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 6614,
+                    "endColumn": 61,
+                    "endOffset": 6671
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 6614,
+                        "endColumn": 61,
+                        "endOffset": 6671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 6676,
+                    "endColumn": 53,
+                    "endOffset": 6725
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 6676,
+                        "endColumn": 53,
+                        "endOffset": 6725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 6730,
+                    "endColumn": 45,
+                    "endOffset": 6771
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 6730,
+                        "endColumn": 45,
+                        "endOffset": 6771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 6776,
+                    "endColumn": 55,
+                    "endOffset": 6827
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 6776,
+                        "endColumn": 55,
+                        "endOffset": 6827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 6832,
+                    "endColumn": 49,
+                    "endOffset": 6877
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 6832,
+                        "endColumn": 49,
+                        "endOffset": 6877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 6882,
+                    "endColumn": 50,
+                    "endOffset": 6928
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 6882,
+                        "endColumn": 50,
+                        "endOffset": 6928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 6933,
+                    "endColumn": 56,
+                    "endOffset": 6985
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 6933,
+                        "endColumn": 56,
+                        "endOffset": 6985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 6990,
+                    "endColumn": 56,
+                    "endOffset": 7042
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 6990,
+                        "endColumn": 56,
+                        "endOffset": 7042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 7047,
+                    "endColumn": 50,
+                    "endOffset": 7093
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 7047,
+                        "endColumn": 50,
+                        "endOffset": 7093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 7098,
+                    "endColumn": 53,
+                    "endOffset": 7147
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 7098,
+                        "endColumn": 53,
+                        "endOffset": 7147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 7152,
+                    "endColumn": 49,
+                    "endOffset": 7197
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 7152,
+                        "endColumn": 49,
+                        "endOffset": 7197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 7202,
+                    "endColumn": 52,
+                    "endOffset": 7250
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 7202,
+                        "endColumn": 52,
+                        "endOffset": 7250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 7255,
+                    "endColumn": 48,
+                    "endOffset": 7299
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 4,
+                        "startOffset": 7255,
+                        "endColumn": 48,
+                        "endOffset": 7299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 7304,
+                    "endColumn": 65,
+                    "endOffset": 7365
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 7304,
+                        "endColumn": 65,
+                        "endOffset": 7365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 7370,
+                    "endColumn": 50,
+                    "endOffset": 7416
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 7370,
+                        "endColumn": 50,
+                        "endOffset": 7416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 7421,
+                    "endColumn": 52,
+                    "endOffset": 7469
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 7421,
+                        "endColumn": 52,
+                        "endOffset": 7469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 7474,
+                    "endColumn": 52,
+                    "endOffset": 7522
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 4,
+                        "startOffset": 7474,
+                        "endColumn": 52,
+                        "endOffset": 7522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 7527,
+                    "endColumn": 47,
+                    "endOffset": 7570
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 7527,
+                        "endColumn": 47,
+                        "endOffset": 7570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 7575,
+                    "endColumn": 57,
+                    "endOffset": 7628
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 4,
+                        "startOffset": 7575,
+                        "endColumn": 57,
+                        "endOffset": 7628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 7633,
+                    "endColumn": 55,
+                    "endOffset": 7684
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 7633,
+                        "endColumn": 55,
+                        "endOffset": 7684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 7689,
+                    "endColumn": 48,
+                    "endOffset": 7733
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 7689,
+                        "endColumn": 48,
+                        "endOffset": 7733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 7738,
+                    "endColumn": 55,
+                    "endOffset": 7789
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 7738,
+                        "endColumn": 55,
+                        "endOffset": 7789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 7794,
+                    "endColumn": 49,
+                    "endOffset": 7839
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 7794,
+                        "endColumn": 49,
+                        "endOffset": 7839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 7844,
+                    "endColumn": 54,
+                    "endOffset": 7894
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 7844,
+                        "endColumn": 54,
+                        "endOffset": 7894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 7899,
+                    "endColumn": 50,
+                    "endOffset": 7945
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 4,
+                        "startOffset": 7899,
+                        "endColumn": 50,
+                        "endOffset": 7945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 7950,
+                    "endColumn": 47,
+                    "endOffset": 7993
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 7950,
+                        "endColumn": 47,
+                        "endOffset": 7993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 7998,
+                    "endColumn": 52,
+                    "endOffset": 8046
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 7998,
+                        "endColumn": 52,
+                        "endOffset": 8046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 8051,
+                    "endColumn": 48,
+                    "endOffset": 8095
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 8051,
+                        "endColumn": 48,
+                        "endOffset": 8095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 8100,
+                    "endColumn": 58,
+                    "endOffset": 8154
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 8100,
+                        "endColumn": 58,
+                        "endOffset": 8154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 8159,
+                    "endColumn": 68,
+                    "endOffset": 8223
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 8159,
+                        "endColumn": 68,
+                        "endOffset": 8223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 8228,
+                    "endColumn": 71,
+                    "endOffset": 8295
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 8228,
+                        "endColumn": 71,
+                        "endOffset": 8295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 8300,
+                    "endColumn": 44,
+                    "endOffset": 8340
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 8300,
+                        "endColumn": 44,
+                        "endOffset": 8340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 8345,
+                    "endColumn": 47,
+                    "endOffset": 8388
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 8345,
+                        "endColumn": 47,
+                        "endOffset": 8388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 8393,
+                    "endColumn": 81,
+                    "endOffset": 8470
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 4,
+                        "startOffset": 8393,
+                        "endColumn": 81,
+                        "endOffset": 8470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 8475,
+                    "endColumn": 50,
+                    "endOffset": 8521
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 8475,
+                        "endColumn": 50,
+                        "endOffset": 8521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 8526,
+                    "endColumn": 56,
+                    "endOffset": 8578
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 4,
+                        "startOffset": 8526,
+                        "endColumn": 56,
+                        "endOffset": 8578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 8583,
+                    "endColumn": 53,
+                    "endOffset": 8632
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 8583,
+                        "endColumn": 53,
+                        "endOffset": 8632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 8637,
+                    "endColumn": 96,
+                    "endOffset": 8729
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 4,
+                        "startOffset": 8637,
+                        "endColumn": 96,
+                        "endOffset": 8729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 8734,
+                    "endColumn": 74,
+                    "endOffset": 8804
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 8734,
+                        "endColumn": 74,
+                        "endOffset": 8804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 8809,
+                    "endColumn": 67,
+                    "endOffset": 8872
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 8809,
+                        "endColumn": 67,
+                        "endOffset": 8872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 8877,
+                    "endColumn": 106,
+                    "endOffset": 8979
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 8877,
+                        "endColumn": 106,
+                        "endOffset": 8979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 8984,
+                    "endColumn": 71,
+                    "endOffset": 9051
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 8984,
+                        "endColumn": 71,
+                        "endOffset": 9051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 9056,
+                    "endColumn": 71,
+                    "endOffset": 9123
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 9056,
+                        "endColumn": 71,
+                        "endOffset": 9123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 9128,
+                    "endColumn": 67,
+                    "endOffset": 9191
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 220,
+                        "startColumn": 4,
+                        "startOffset": 9128,
+                        "endColumn": 67,
+                        "endOffset": 9191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 9196,
+                    "endColumn": 67,
+                    "endOffset": 9259
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 9196,
+                        "endColumn": 67,
+                        "endOffset": 9259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 9264,
+                    "endColumn": 59,
+                    "endOffset": 9319
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 4,
+                        "startOffset": 9264,
+                        "endColumn": 59,
+                        "endOffset": 9319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 9324,
+                    "endColumn": 59,
+                    "endOffset": 9379
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 4,
+                        "startOffset": 9324,
+                        "endColumn": 59,
+                        "endOffset": 9379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 9384,
+                    "endColumn": 94,
+                    "endOffset": 9474
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 224,
+                        "startColumn": 4,
+                        "startOffset": 9384,
+                        "endColumn": 94,
+                        "endOffset": 9474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 9479,
+                    "endColumn": 48,
+                    "endOffset": 9523
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 4,
+                        "startOffset": 9479,
+                        "endColumn": 48,
+                        "endOffset": 9523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 9528,
+                    "endColumn": 43,
+                    "endOffset": 9567
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 226,
+                        "startColumn": 4,
+                        "startOffset": 9528,
+                        "endColumn": 43,
+                        "endOffset": 9567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 9572,
+                    "endColumn": 51,
+                    "endOffset": 9619
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 227,
+                        "startColumn": 4,
+                        "startOffset": 9572,
+                        "endColumn": 51,
+                        "endOffset": 9619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 9624,
+                    "endColumn": 49,
+                    "endOffset": 9669
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 228,
+                        "startColumn": 4,
+                        "startOffset": 9624,
+                        "endColumn": 49,
+                        "endOffset": 9669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 9674,
+                    "endColumn": 57,
+                    "endOffset": 9727
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 229,
+                        "startColumn": 4,
+                        "startOffset": 9674,
+                        "endColumn": 57,
+                        "endOffset": 9727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 9732,
+                    "endColumn": 57,
+                    "endOffset": 9785
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 4,
+                        "startOffset": 9732,
+                        "endColumn": 57,
+                        "endOffset": 9785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 9790,
+                    "endColumn": 47,
+                    "endOffset": 9833
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 9790,
+                        "endColumn": 47,
+                        "endOffset": 9833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 9838,
+                    "endColumn": 54,
+                    "endOffset": 9888
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 4,
+                        "startOffset": 9838,
+                        "endColumn": 54,
+                        "endOffset": 9888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 9893,
+                    "endColumn": 62,
+                    "endOffset": 9951
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 4,
+                        "startOffset": 9893,
+                        "endColumn": 62,
+                        "endOffset": 9951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 9956,
+                    "endColumn": 58,
+                    "endOffset": 10010
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 4,
+                        "startOffset": 9956,
+                        "endColumn": 58,
+                        "endOffset": 10010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 10015,
+                    "endColumn": 51,
+                    "endOffset": 10062
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 235,
+                        "startColumn": 4,
+                        "startOffset": 10015,
+                        "endColumn": 51,
+                        "endOffset": 10062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 10067,
+                    "endColumn": 58,
+                    "endOffset": 10121
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 4,
+                        "startOffset": 10067,
+                        "endColumn": 58,
+                        "endOffset": 10121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 10126,
+                    "endColumn": 63,
+                    "endOffset": 10185
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 237,
+                        "startColumn": 4,
+                        "startOffset": 10126,
+                        "endColumn": 63,
+                        "endOffset": 10185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 10190,
+                    "endColumn": 53,
+                    "endOffset": 10239
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 238,
+                        "startColumn": 4,
+                        "startOffset": 10190,
+                        "endColumn": 53,
+                        "endOffset": 10239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 10244,
+                    "endColumn": 51,
+                    "endOffset": 10291
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 4,
+                        "startOffset": 10244,
+                        "endColumn": 51,
+                        "endOffset": 10291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 10296,
+                    "endColumn": 60,
+                    "endOffset": 10352
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 4,
+                        "startOffset": 10296,
+                        "endColumn": 60,
+                        "endOffset": 10352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 10357,
+                    "endColumn": 46,
+                    "endOffset": 10399
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 10357,
+                        "endColumn": 46,
+                        "endOffset": 10399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 10404,
+                    "endColumn": 87,
+                    "endOffset": 10487
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 242,
+                        "startColumn": 4,
+                        "startOffset": 10404,
+                        "endColumn": 87,
+                        "endOffset": 10487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 10492,
+                    "endColumn": 50,
+                    "endOffset": 10538
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 4,
+                        "startOffset": 10492,
+                        "endColumn": 50,
+                        "endOffset": 10538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 10543,
+                    "endColumn": 61,
+                    "endOffset": 10600
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 244,
+                        "startColumn": 4,
+                        "startOffset": 10543,
+                        "endColumn": 61,
+                        "endOffset": 10600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 10605,
+                    "endColumn": 51,
+                    "endOffset": 10652
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 4,
+                        "startOffset": 10605,
+                        "endColumn": 51,
+                        "endOffset": 10652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 10657,
+                    "endColumn": 50,
+                    "endOffset": 10703
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 246,
+                        "startColumn": 4,
+                        "startOffset": 10657,
+                        "endColumn": 50,
+                        "endOffset": 10703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 10708,
+                    "endColumn": 65,
+                    "endOffset": 10769
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 247,
+                        "startColumn": 4,
+                        "startOffset": 10708,
+                        "endColumn": 65,
+                        "endOffset": 10769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 10774,
+                    "endColumn": 61,
+                    "endOffset": 10831
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 248,
+                        "startColumn": 4,
+                        "startOffset": 10774,
+                        "endColumn": 61,
+                        "endOffset": 10831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 10836,
+                    "endColumn": 49,
+                    "endOffset": 10881
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 249,
+                        "startColumn": 4,
+                        "startOffset": 10836,
+                        "endColumn": 49,
+                        "endOffset": 10881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 10886,
+                    "endColumn": 38,
+                    "endOffset": 10920
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 250,
+                        "startColumn": 4,
+                        "startOffset": 10886,
+                        "endColumn": 38,
+                        "endOffset": 10920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 10925,
+                    "endColumn": 43,
+                    "endOffset": 10964
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 10925,
+                        "endColumn": 43,
+                        "endOffset": 10964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 10969,
+                    "endColumn": 33,
+                    "endOffset": 10998
+                },
+                "from": {
+                    "file": "D:\\Dev\\2017-4-14\\SipDemo\\sipUA\\build\\intermediates\\bundles\\debug\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 10969,
+                        "endColumn": 33,
+                        "endOffset": 10998
+                    }
+                }
+            }
+        ]
+    }
+]
